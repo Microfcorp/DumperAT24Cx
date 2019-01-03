@@ -1,0 +1,5 @@
+c:\users\лехап\documents\visual studio 2015\Projects\Dumper\Dumper\bin\Debug\Dumper.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Dumper\Dumper\bin\Debug\Dumper.pdb
+c:\users\лехап\documents\visual studio 2015\Projects\Dumper\Dumper\obj\Debug\Dumper.csprojResolveAssemblyReference.cache
+c:\users\лехап\documents\visual studio 2015\Projects\Dumper\Dumper\obj\Debug\Dumper.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Dumper\Dumper\obj\Debug\Dumper.pdb
